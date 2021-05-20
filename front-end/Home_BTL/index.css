@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	/*background-image: url(images/smart_city.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+#container{
+	width: 100%;
+	height: 100%;
+	background-image: url(images/smart_city.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#tle{
+	font-size: 50px;
+	padding-left: 40%;
+	padding-top: 20px;
+	color: #bdbdf2;
+}
+
+.d{
+	float: left;
+	height: 35%;
+	width: 45%;
+	background-color: #e3e3fa;
+	margin-left: 20px;
+	margin-top: 20px;
+	padding-left: 40px;
+	border-radius: 30px;
+
+}
+img{
+	width: 80%;
+	max-height: 80%;
+}
+
